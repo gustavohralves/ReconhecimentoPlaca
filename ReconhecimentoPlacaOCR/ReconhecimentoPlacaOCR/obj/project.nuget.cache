@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KVknLH36QvU8yo+X/8PgCl+xObjrKLYwAYUPitQB9IsusDdE7K5kGskTzLCr3s+dLk3sCN4ycfqeWJu3ItZ0cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pcr55\\source\\repos\\ReconhecimentoPlacaOCR\\ReconhecimentoPlacaOCR\\ReconhecimentoPlacaOCR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pcr55\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\pcr55\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
